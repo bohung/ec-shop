@@ -50,6 +50,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
  gem "pay2go" # 智付寶金流
  gem "figaro" # 用來管理機密資訊
  gem "fog"  # Ruby cloud services library
+ gem "rails-erd" # 自動生成ERP圖
+
 
  group :production do
    gem "pg"
