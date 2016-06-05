@@ -3,6 +3,11 @@ zh-TW:
     errors:
       messages:
         blank: 不能有空白
+      models:
+        user:
+          attributes:
+            email:
+              taken: 帳號重複
 
   orders:
     order_state:
