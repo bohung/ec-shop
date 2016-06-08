@@ -47,7 +47,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
  gem "aasm"
 
  gem "letter_opener", group: :development # 預覽郵件
- gem "roadie" # 幫信件加上 css
+ gem "roadie", "2.4.3" # 幫信件加上 css
  gem "pay2go" # 智付寶金流
  gem "figaro" # 用來管理機密資訊
  gem "fog"  # Ruby cloud services library
