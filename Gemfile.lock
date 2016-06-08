@@ -400,6 +400,7 @@ DEPENDENCIES
   omniauth-facebook
   pay2go
   pg
+  pry-rails
   rails (= 4.2.6)
   rails-erd
   rails_12factor
